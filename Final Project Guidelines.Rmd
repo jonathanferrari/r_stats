@@ -1,0 +1,125 @@
+---
+title: "Final Project Guidelines"
+output: 
+  html_document: 
+    toc: yes
+    toc_float: yes
+    toc_depth: 4
+    theme: yeti
+---
+
+# Final Project \| Description and Rubric
+
+## Your Research Paper
+
+You will design, conduct, and report the results of an original research project. This project is a chance for you to demonstrate your understanding of statistics, R, and research methods. You can choose the topic, but make sure to choose what you choose is within your scope to complete given the deadlines and your resources. This project doesn't have to be perfect, but is an exercise in applying the principles of the course to a topic you care about. We will spend time in lecture and discussion section to help guide you through this process!
+
+Your final project grade is based on the following parts. **In total, these assignments are worth [30%]{.ul} of your grade in the course**. Deadlines for all assignments can be found on the syllabus.
+
+**Your research paper will contain the following sections:**
+
+### Introduction:
+
+-   What is your research question?
+
+-   What past research has been conducted on this topic?
+
+-   What is your contribution to the literature?
+
+-   What are your hypotheses?
+
+### Methods:
+
+-   What exactly did you do in order to conduct your study?
+
+-   What specific measures or manipulations did you administer?
+
+### Results:
+
+-   What do the data "say"?
+
+-   What are the relationships between your variables?
+
+### Tables and Figures:
+
+-   How can you visually organize and summarize your findings?
+
+### Discussion:
+
+-   What are the key takeaways from your paper?
+
+-   What are some of the limitations of your research, and what additional questions would be interesting and important to explore in future research?
+
+### References:
+
+-   What research did you cite? You should cite at least 5 empirical articles from peer-reviewed journals using APA format.
+
+### R Code and Data-Set:
+
+-   How will others replicate your analyses?
+
+-   Upload your data file along with a clean version of your R code.
+
+-   Another researcher should be able to execute the R script and generate all your analyses and figures with no errors.
+
+### Format:
+
+-   `.pdf` document
+
+-   double-spaced
+
+-   12-point Times New Roman font
+
+-   1-inch margins
+
+-   Late Submission merits incomplete in the course
+
+-   15 pages
+
+## Final Research Paper : Grading Rubric
+
+#### [25% of your grade]
+
+### Title Page and Introduction *[20 points]*
+
+-   Title page in APA format + Abstract less than 250 words that summarizes the paper ***[5]***
+
+-   Review of past literature includes at least 5 citations, identifies the need for additional research (i.e., your study) and helps focus a broad question to specific hypotheses (both null and alternative) for main effects and potential confound or interaction effects ***[15]***
+
+### Method *[30 points total]*
+
+-   Participants described (sample size, age, sex, incentives, recruitment) ***[5]***
+
+-   Procedures and methods are relevant to study hypothesis, and described with enough detail for another researcher to replicate the study ***[10]***
+
+-   Dependent variable is a continuous measure and described and evaluated in terms of reliability and validity ***[5]***
+
+-   Measures / Manipulation for two independent variables are described and evaluated in terms of reliability and validity ***[10]***
+
+### Results, Tables, and Figures *[40 points total]*
+
+-   Descriptive statistics (e.g., mean, standard deviation, range, and alpha reliability for continuous; frequency for categorical) reported for all included measures ***[5]***
+
+-   Student reported results of the bi-variate models to test the main effect hypotheses ***[10]***
+
+-   Student reported results of any multivariate model (mediation or moderation effects) ***[10]***
+
+-   Key results from models are organized into a table(s) ***[5]***
+
+-   Key results of main effect are graphed in a presentation-ready format ***[10]***
+
+### Discussion *[10 points total]*
+
+-   Findings summarized and related to past research / the real world ***[5]***
+
+-   Discussion of at least one limitations, why this limitation mattered / influenced the results, and ways future research might address these limitations or answer new questions ***[5]***
+
+### Deductions *[-100 points total]*
+
+-   Paper contained typos and mistakes that demonstrated lack of effort in writing. ***[-10 points]***
+
+-   Paper and / or references did not use APA format ***[-10 points]***
+
+-   Student did not turn in R code and data file ***[-30 points]***
+
+-   Student plagiarized part of the research paper ***[-100 points]***
